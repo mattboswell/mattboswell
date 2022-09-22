@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattboswell
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, python, django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:bozz_505@hotmail.com
 
